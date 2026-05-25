@@ -1,0 +1,15 @@
+{
+    "name": "Alice",
+    "age": 25,
+    "city": "New York",
+    "is_student": true,
+    "hobbies": [
+        "reading",
+        "coding",
+        "travel"
+    ],
+    "scores": {
+        "math": 95,
+        "english": 88
+    }
+}

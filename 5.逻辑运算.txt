@@ -1,0 +1,2 @@
+在Python当中，有且只有not、and、or三个逻辑
+优先级：not＞and＞or
